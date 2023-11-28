@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Types of tea</title>
+	<link href="./style.css" rel="stylesheet"/>
+</head>
+<body>
+	<header>
+		<h1 class="title">
+		Types of tea
+		</h1>
+		<h2>
+		Basic varieties
+		</h2>
+		<p>
+		All tea comes from only one plant called Camellia sinensis. However, based on the type of tea leaves picked and the level of oxidation or processing, tea is classified into five main types: Black, Green, Oolong, White, and Pu-erh.
+		</p>
+		<div id="black tea">
+		<figure>
+			<img src="https://teapeople.co.uk/cdn/shop/files/makaibari_1st_flush.jpg?v=1670998585" width="190" height="170">
+		</figure>
+			 <p>
+			<strong>Black tea</strong> is the most common type of tea accounting for up to 85% of total tea consumption in the western world. Black tea is fully oxidized and has a darker appearance, stronger flavour, and higher caffeine content compared to other teas. The caffeine content in black tea is still around half the level of coffee. Often black teas can be consumed with sugar, milk, or lemon and offer some of the same health benefits as other teas.
+			</p>
+		<p>
+		Click <a href="https://teapeople.co.uk/collections/black-tea" target="_blank">here</a> to browse our selection of black teas
+		</p>
+		</div>
+	</header>
+	<main></main>
+	<footer>
+	
+	</footer>
+</body>
+</html>
